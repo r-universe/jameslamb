@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "uptasticsearch"]
+	path = uptasticsearch
+	url = https://github.com/cran/uptasticsearch
+	shallow = true
+	registered = true
